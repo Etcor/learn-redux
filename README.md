@@ -1,2 +1,3 @@
 # learn-redux
-A repository to hold the code I complete during the learn redux video series.
+A place to hold my code as I complete the learn redux video series.
+https://learnredux.com/
